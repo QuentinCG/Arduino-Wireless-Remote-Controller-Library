@@ -1,0 +1,3 @@
+WirelessRemoteController	KEYWORD1
+getCurrentValue	KEYWORD2
+addTrigger	KEYWORD2
