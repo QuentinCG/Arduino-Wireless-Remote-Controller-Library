@@ -40,7 +40,7 @@ class WirelessRemoteController
      *
      * \return (bool) Did remote controller send data?
      */
-   bool getCurrentValue(bool data[4]);
+   bool getCurrentValue(bool data[4]) const;
 
     /*!
      * \brief addTrigger Launch a function every time remote controller send data

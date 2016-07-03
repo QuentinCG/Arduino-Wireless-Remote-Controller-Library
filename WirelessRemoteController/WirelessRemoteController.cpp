@@ -22,7 +22,7 @@ WirelessRemoteController::WirelessRemoteController(int pin_D0, int pin_D1, int p
   }
 }
 
-bool WirelessRemoteController::getCurrentValue(bool data[4])
+bool WirelessRemoteController::getCurrentValue(bool data[4]) const
 {
   bool is_valid = false;
 
