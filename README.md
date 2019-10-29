@@ -1,6 +1,6 @@
 # Wireless Remote Controller Library for Arduino
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b903d34e2976470a83947c26effe8cb9)](https://www.codacy.com/manual/QuentinCG/Arduino-Wireless-Remote-Controller-Library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/Arduino-Wireless-Remote-Controller-Library&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b903d34e2976470a83947c26effe8cb9)](https://www.codacy.com/manual/QuentinCG/Arduino-Wireless-Remote-Controller-Library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/Arduino-Wireless-Remote-Controller-Library&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/QPortKnocking/blob/master/LICENSE)
 
 ## What is it
 
