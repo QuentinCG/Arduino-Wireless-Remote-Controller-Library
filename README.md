@@ -39,11 +39,11 @@ Two examples are provided with this library:
 
 ### Check data from wireless remote controller every second (synchronous)
 
-<a target="_blank" href="https://github.com/QuentinCG/Arduino-Wireless-Remote-Controller-Library/blob/master/WirelessRemoteController/examples/BasicRemoteControl/BasicRemoteControl.ino">Link to source code</a>
+<a target="_blank" href="https://github.com/QuentinCG/Arduino-Wireless-Remote-Controller-Library/blob/master/examples/BasicRemoteControl/BasicRemoteControl.ino">Link to source code</a>
 
 ### Get data from wireless remote controller with interrupts (asynchronous)
 
-<a target="_blank" href="https://github.com/QuentinCG/Arduino-Wireless-Remote-Controller-Library/blob/master/WirelessRemoteController/examples/RemoteControlWithInterrupt/RemoteControlWithInterrupt.ino">Link to source code</a>
+<a target="_blank" href="https://github.com/QuentinCG/Arduino-Wireless-Remote-Controller-Library/blob/master/examples/RemoteControlWithInterrupt/RemoteControlWithInterrupt.ino">Link to source code</a>
 
 ## License
 
