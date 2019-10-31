@@ -1,6 +1,5 @@
 # Wireless Remote Controller Library for Arduino
-
-[![Build Status](https://travis-ci.org/QuentinCG/Arduino-Wireless-Remote-Controller-Library.svg?branch=master)](https://travis-ci.org/QuentinCG/Arduino-Wireless-Remote-Controller-Library) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b903d34e2976470a83947c26effe8cb9)](https://www.codacy.com/manual/QuentinCG/Arduino-Wireless-Remote-Controller-Library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/Arduino-Wireless-Remote-Controller-Library&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/Arduino-Wireless-Remote-Controller-Library/blob/master/LICENSE.md)
+[![Build Status](https://travis-ci.org/QuentinCG/Arduino-Wireless-Remote-Controller-Library.svg?branch=master)](https://travis-ci.org/QuentinCG/Arduino-Wireless-Remote-Controller-Library) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b903d34e2976470a83947c26effe8cb9)](https://www.codacy.com/manual/QuentinCG/Arduino-Wireless-Remote-Controller-Library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=QuentinCG/Arduino-Wireless-Remote-Controller-Library&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/QuentinCG/Arduino-Wireless-Remote-Controller-Library/blob/master/LICENSE.md) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/QuentinCG)
 
 ## What is it
 
