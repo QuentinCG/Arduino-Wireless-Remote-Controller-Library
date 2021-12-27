@@ -5,9 +5,9 @@
  * asynchronously launch a function every time a data is received.
  *
  * \author Quentin Comte-Gaz <quentin@comte-gaz.com>
- * \date 1 July June 2016
+ * \date 27 December 2021
  * \license MIT License (contact me if too restrictive)
- * \copyright Copyright (c) 2016 Quentin Comte-Gaz
+ * \copyright Copyright (c) 2021 Quentin Comte-Gaz
  * \version 1.0
  */
 
@@ -19,13 +19,18 @@ WirelessRemoteController remote_controller(3, 4, 5, 6);
 void receiveFromRemoteController()
 {
   bool current_rx[4];
-  if(remote_controller.getCurrentValue(current_rx)) {
+  if(remote_controller.getCurrentValue(current_rx))
+  {
     Serial.print("Data received: ");
-    for (int i = 0; i < 4; i++) {
+    for (int i = 0; i < 4; i++)
+    {
       Serial.print(current_rx[i]);
-      Serial.print(" ");  }
+      Serial.print(" ");
+    }
     Serial.print("\n");
-  } else {
+  }
+  else
+  {
     Serial.print("No data received (!!should not happen!!)\n");
   }
 }
@@ -42,4 +47,5 @@ void setup(void)
 
 void loop()
 {
+  // Nothing to do in loop since everything is asynchronous
 }
