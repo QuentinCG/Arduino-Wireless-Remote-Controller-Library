@@ -4,9 +4,9 @@
  * This method is unsafe as you may not catch some of the sent data
  *
  * \author Quentin Comte-Gaz <quentin@comte-gaz.com>
- * \date 1 July 2016
+ * \date 27 December 2021
  * \license MIT License (contact me if too restrictive)
- * \copyright Copyright (c) 2016 Quentin Comte-Gaz
+ * \copyright Copyright (c) 2021 Quentin Comte-Gaz
  * \version 1.0
  */
 
@@ -25,14 +25,18 @@ void loop()
   // Check remote controller data every second
 
   bool current_rx[4];
-  if(remote_controller.getCurrentValue(current_rx)) {
+  if(remote_controller.getCurrentValue(current_rx))
+  {
     Serial.print("Data received: ");
-    for (int i = 0; i < 4; i++) {
+    for (int i = 0; i < 4; i++)
+    {
       Serial.print(current_rx[i]);
       Serial.print(" ");
     }
     Serial.print("\n");
-  } else {
+  }
+  else
+  {
     Serial.print("No relevant data received\n");
   }
 
